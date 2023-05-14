@@ -28,13 +28,13 @@ Se puede probar la web tanto clonando el repositorio como descargando el archivo
 ## Capturas de pantalla
 
 <p align="center">
+![2023-05-14_213915](https://github.com/DanielDW23/Proyecto_certificado--IFCD0110/assets/126791645/564ea501-39a6-4c37-b936-41d1244af953)
+![2023-05-14_213921](https://github.com/DanielDW23/Proyecto_certificado--IFCD0110/assets/126791645/fa7544f9-f6bd-420c-9002-1b0c8ff3890e)
+![2023-05-14_213925](https://github.com/DanielDW23/Proyecto_certificado--IFCD0110/assets/126791645/33bc746c-0cc3-4d24-8d6c-5f17b44ced4d)
+![2023-05-14_213929](https://github.com/DanielDW23/Proyecto_certificado--IFCD0110/assets/126791645/89d1cabb-53cf-4077-ba03-c8e91f34ae89)
+![2023-05-14_213940](https://github.com/DanielDW23/Proyecto_certificado--IFCD0110/assets/126791645/5c2a8521-12dd-43d3-b782-3a01189ba6ad)
+![2023-05-14_213947](https://github.com/DanielDW23/Proyecto_certificado--IFCD0110/assets/126791645/7c47d907-5d21-4e09-a37b-08ba5a65d6dc)
 
-![2023-05-14_212311](https://github.com/DanielDW23/Proyecto_certificado--IFCD0110/assets/126791645/d041f235-4c6b-40ea-b1a8-da47ee049812)
-![2023-05-14_212315](https://github.com/DanielDW23/Proyecto_certificado--IFCD0110/assets/126791645/150bf35b-ad78-4452-8dd5-8701512c1950)
-![2023-05-14_212318](https://github.com/DanielDW23/Proyecto_certificado--IFCD0110/assets/126791645/2046eb98-2cf2-41f3-ada2-bb63d30307ed)
-![2023-05-14_212323](https://github.com/DanielDW23/Proyecto_certificado--IFCD0110/assets/126791645/a5baf6cd-db2c-4fb8-b759-e64eed730f9a)
-![2023-05-14_212337](https://github.com/DanielDW23/Proyecto_certificado--IFCD0110/assets/126791645/735beb71-1bd2-4aca-8bce-7482a351c918)
-![2023-05-14_212349](https://github.com/DanielDW23/Proyecto_certificado--IFCD0110/assets/126791645/d41b101a-7454-4830-8938-701eb9e8bbd9)
 ![2023-05-14_212404](https://github.com/DanielDW23/Proyecto_certificado--IFCD0110/assets/126791645/900f5471-604a-4918-b5d6-d11737b78d3c)
 ![2023-05-14_212415](https://github.com/DanielDW23/Proyecto_certificado--IFCD0110/assets/126791645/0ce4f91b-4463-4642-bc88-46b62e06e5ee)
 
