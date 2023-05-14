@@ -1,0 +1,44 @@
+main{
+    margin: 40px 9%;
+    }
+
+main img{
+    width:100%;
+    padding-top: 18px;
+    }
+
+@media only screen and (max-width: 600px) {
+    main{
+        margin: 20px 0%;
+        }
+    
+    main img{
+        width:100%;
+        padding-top: 12px;
+        }
+
+}
+
+@media only screen and (min-width: 601px) and (max-width:768px) {
+    main{
+        margin: 20px 0%;
+        }
+    
+    main img{
+        width:100%;
+        padding-top: 12px;
+        }
+
+}
+
+@media only screen and (min-width: 769px)  and (max-width:992px) {
+    main{
+        margin: 20px 0%;
+        }
+    
+    main img{
+        width:100%;
+        padding-top: 12px;
+        }
+
+}

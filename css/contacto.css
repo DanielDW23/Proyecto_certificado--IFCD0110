@@ -1,0 +1,296 @@
+@media only screen and (min-width: 993px) {   
+   main{
+        width:66%;
+        margin:auto;
+        padding-top: 20px;
+        padding-bottom: 20px;
+        }
+
+    .field{
+        margin-top: 30px;
+        }
+
+    .action{
+        margin-top: 30px;
+        }
+
+    label{
+        width:30%;
+        float:left;
+        font-size: 20px;
+        }
+
+    textarea{
+        resize: vertical;
+        }
+
+    h2{
+        font-size: 35px;
+        }
+
+    main p{
+        font-size: 20px;
+        }
+    .direccion{
+        font-size: 28px;
+        font-weight: bold;
+        text-align: center;
+    }
+
+    .action input{
+        font-size: 20px;
+        margin-left: 30px;
+        background-color: lightgreen;
+        }
+
+    #form_retoques{
+        border:double navy 4px;
+        padding:5px 7px 9px;
+        background-color: lightblue
+        }
+
+    #error_nombre , #error_email , #error_aceptar{
+        font-size: 20px;
+        color:red;
+        }
+
+    ::placeholder{
+        font-size: 18px;
+        color:red;
+        }
+
+    main img{
+        width:86%;
+        padding-bottom: 15px;
+        }
+
+    .centrar_foto{
+        margin:auto;
+        display:block;
+    }
+}
+@media only screen and (max-width: 600px) {
+    main{
+        width:90%;
+        margin:auto;
+        padding-top: 20px;
+        padding-bottom: 20px;
+        }
+    
+    .field{
+        margin-top: 30px;
+        }
+    
+    .action{
+        margin-top: 30px;
+        }
+    
+    label{
+        width:30%;
+        float:left;
+        font-size: 20px;
+        }
+    
+    textarea{
+        resize: vertical;
+        }
+    
+    h2{
+        font-size: 35px;
+        }
+    
+    main p{
+        font-size: 20px;
+        }
+    .direccion{
+        font-size: 28px;
+        font-weight: bold;
+        text-align: center;
+    }
+    
+    .action input{
+        font-size: 20px;
+        margin-left: 30px;
+        background-color: lightgreen;
+        }
+    
+    #form_retoques{
+        border:double navy 4px;
+        padding:5px 7px 9px;
+        background-color: lightblue
+        }
+    
+    #error_nombre , #error_email , #error_aceptar{
+        font-size: 20px;
+        color:red;
+        }
+    
+    ::placeholder{
+        font-size: 18px;
+        color:red;
+        }
+    
+    main img{
+        width:86%;
+        padding-bottom: 15px;
+        }
+    
+    .centrar_foto{
+        margin:auto;
+        display:block;
+    }
+
+    input[type="text"],textarea {
+        width: 230px;
+    }
+}
+
+@media only screen and (min-width: 601px) and (max-width:768px) {
+    main{
+        width:90%;
+        margin:auto;
+        padding-top: 20px;
+        padding-bottom: 20px;
+        }
+    
+    .field{
+        margin-top: 30px;
+        }
+    
+    .action{
+        margin-top: 30px;
+        }
+    
+    label{
+        width:32%;
+        float:left;
+        font-size: 20px;
+        }
+    
+    textarea{
+        resize: vertical;
+        }
+    
+    h2{
+        font-size: 35px;
+        }
+    
+    main p{
+        font-size: 20px;
+        }
+    .direccion{
+        font-size: 28px;
+        font-weight: bold;
+        text-align: center;
+    }
+    .action input{
+        font-size: 20px;
+        margin-left: 30px;
+        background-color: lightgreen;
+        }
+    
+    #form_retoques{
+        border:double navy 4px;
+        padding:5px 7px 9px;
+        background-color: lightblue
+        }
+    
+    #error_nombre , #error_email , #error_aceptar{
+        font-size: 20px;
+        color:red;
+        }
+    
+    ::placeholder{
+        font-size: 18px;
+        color:red;
+        }
+    
+    main img{
+        width:86%;
+        padding-bottom: 15px;
+        }
+    
+    .centrar_foto{
+        margin:auto;
+        display:block;
+    }
+
+    input[type="text"],textarea {
+        width: 230px;
+    }
+}
+
+@media only screen and  (min-width: 769px)  and (max-width:992px) {
+    main{
+        width:90%;
+        margin:auto;
+        padding-top: 20px;
+        padding-bottom: 20px;
+        }
+    
+    .field{
+        margin-top: 30px;
+        }
+    
+    .action{
+        margin-top: 30px;
+        }
+    
+    label{
+        width:30%;
+        float:left;
+        font-size: 20px;
+        }
+    
+    textarea{
+        resize: vertical;
+        }
+    
+    h2{
+        font-size: 35px;
+        }
+    
+    main p{
+        font-size: 20px;
+        }
+    .direccion{
+        font-size: 28px;
+        font-weight: bold;
+        text-align: center;
+    }
+    .action input{
+        font-size: 20px;
+        margin-left: 30px;
+        background-color: lightgreen;
+        }
+    
+    #form_retoques{
+        border:double navy 4px;
+        padding:5px 7px 9px;
+        background-color: lightblue
+        }
+    
+    #error_nombre , #error_email , #error_aceptar{
+        font-size: 20px;
+        color:red;
+        }
+    
+    ::placeholder{
+        font-size: 18px;
+        color:red;
+        }
+    
+    main img{
+        width:86%;
+        padding-bottom: 15px;
+        }
+    
+    .centrar_foto{
+        margin:auto;
+        display:block;
+    }
+
+    input[type="text"],textarea {
+        width: 270px;
+    }
+}

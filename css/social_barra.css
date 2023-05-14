@@ -1,0 +1,110 @@
+@media only screen and (min-width: 993px) {
+ #social {
+        float: right;
+        margin-left:300px;
+        margin-top: -90px;
+        padding-right: 20px;
+        }
+
+    #social ul{
+        list-style: none;  
+        }
+
+    #social li{
+        margin-top: -35px;
+        }
+
+    #social ul li {
+        display:inline-block;
+        text-decoration: none;
+        }
+
+    #social img{
+        height: 50px;
+        }
+    }
+@media only screen and (max-width: 600px) {
+
+    #social {
+        float: right;
+        margin-left:0px;
+        margin-top: -195px;
+        padding-right: 0px;
+        }
+    
+    #social ul{
+        list-style: none;  
+        }
+    
+    #social li{
+        margin-top: -35px;
+        }
+    
+    #social ul li {
+        display:inline-block;
+        text-decoration: none;
+        }
+    
+    #social img{
+        height: 50px;
+        }
+
+}
+
+@media only screen and (min-width: 601px) and (max-width:768px) {
+
+    #social {
+        float: right;
+        margin-left:0px;
+        margin-top: -280px;
+        padding-right: 10px;
+        }
+    
+    #social ul{
+        list-style: none;  
+        }
+    
+    #social li{
+        margin-top: -35px;
+        
+        }
+    
+    #social ul li {
+        display:inline-block;
+        text-decoration: none;
+        }
+    
+    #social img{
+        height: 50px;
+        }
+
+}
+
+@media only screen and (min-width: 769px)  and (max-width:992px) {
+
+    #social {
+        float: right;
+        margin-top: -285px;
+        padding-left: -10px;
+        }
+    
+    #social ul{
+        list-style: none;
+          
+        }
+    
+    #social li{
+        margin-top: -5px;
+        padding-left: -15px;
+        }
+    
+    #social ul li {
+        display:inline-block;
+        text-decoration: none;
+        }
+    
+    #social img{
+        height: 50px;
+        }
+
+}

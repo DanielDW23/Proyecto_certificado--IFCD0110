@@ -1,0 +1,290 @@
+@media only screen and (min-width: 993px) {
+    main{
+        width:80%;
+        margin:auto;
+        padding-top: 20px;
+        padding-bottom: 20px;
+        }
+
+    main img{
+        width:100%; 
+        }
+
+    p{
+        text-align: justify;
+        font-size: 30px;
+        font-family: 'Rancho', cursive;
+        }
+
+    .portada_libro_lateral img{
+        width:20%;
+        margin-top: 32px;
+        
+        }
+
+    .portada_libro_lateral p{
+        width:75%;
+        float: right;
+        }
+
+    .precio_color{
+        color:rgb(60, 127, 202);
+        
+        font-size: 27px;
+        background-color: lightgrey;
+        padding: 5px;
+        font-weight: bold;
+        }
+
+    main h3{
+        font-size: 27px;
+        background-color:lightblue ;
+        }
+
+    main h4{
+        font-size: 27px;
+        font-family: 'Rancho', cursive;
+        color:rgb(36, 121, 201);
+        margin-bottom: -1px;
+        }
+
+    .entrelibro{
+        width:75%;
+        }
+
+    .negrita{
+        font-weight: bold;
+        }
+
+    #subir{
+        margin:45%;
+        font-size: 25px;
+        }
+    }
+@media only screen and (max-width: 600px) {
+    main{
+        width:100%;
+        margin:auto;
+        padding-top: 20px;
+        padding-bottom: 20px;
+        }
+
+    main img{
+        width:100%; 
+        }
+        
+    .recortar_foto{
+        height:230px;
+        object-fit:cover;   
+        }
+  
+    p{
+        text-align: justify;
+        font-size: 30px;
+        font-family: 'Rancho', cursive;
+        }
+    
+    .portada_libro_lateral img{
+        width:100%;
+        margin-top: 32px;
+        
+        }
+    
+    .portada_libro_lateral p{
+        width:100%;
+        float: none;
+        }
+    
+    .precio_color{
+        color:rgb(60, 127, 202);
+        font-size: 27px;
+        background-color: lightgrey;
+        padding: 5px;
+        font-weight: bold;
+        }
+    
+    main h3{
+        font-size: 27px;
+        background-color:lightblue ;
+        }
+    
+    main h4{
+        font-size: 27px;
+        font-family: 'Rancho', cursive;
+        color:rgb(36, 121, 201);
+        margin-bottom: -1px;
+        }
+    
+    .entrelibro{
+        width:75%;
+        }
+    
+    .negrita{
+        font-weight: bold;
+        }
+    
+    #subir{
+        margin:45%;
+        font-size: 25px;
+        }
+
+    .centrar_previo_vueltacole{
+        text-align: center;
+    }     
+
+}
+
+@media only screen and (min-width: 601px) and (max-width:768px) {
+    main{
+        width:100%;
+        margin:auto;
+        padding-top: 20px;
+        padding-bottom: 20px;
+        }
+    main img{
+        width:100%; 
+        }    
+    .recortar_foto{
+    height:230px;
+    object-fit:cover;   
+    }
+  
+    p{
+        text-align: justify;
+        font-size: 30px;
+        font-family: 'Rancho', cursive;
+        }
+    
+    .portada_libro_lateral img{
+        width:50%;
+        margin-top: 32px;
+        
+        }
+    .centrar_foto{
+        margin:auto;
+        display:block;
+    }
+    
+    .portada_libro_lateral p{
+        width:100%;
+        float: none;
+        }
+    
+    .precio_color{
+        color:rgb(60, 127, 202);
+        
+        font-size: 27px;
+        background-color: lightgrey;
+        padding: 5px;
+        font-weight: bold;
+        }
+    
+    main h3{
+        font-size: 27px;
+        background-color:lightblue ;
+        }
+    
+    main h4{
+        font-size: 27px;
+        font-family: 'Rancho', cursive;
+        color:rgb(36, 121, 201);
+        margin-bottom: -1px;
+        }
+    
+    .entrelibro{
+        width:75%;
+        }
+    
+    .negrita{
+        font-weight: bold;
+        }
+    
+    #subir{
+        margin:45%;
+        font-size: 25px;
+        }
+
+    .centrar_previo_vueltacole{
+        text-align: center;
+    }
+        
+
+}
+
+@media only screen and (min-width: 769px)  and (max-width:992px)  {
+    main{
+        width:100%;
+        margin:auto;
+        padding-top: 20px;
+        padding-bottom: 20px;
+        }
+
+    main img{
+        width:100%; 
+        }   
+    .recortar_foto{
+        height:230px;
+        object-fit:cover;   
+        }
+  
+    p{
+        text-align: justify;
+        font-size: 30px;
+        font-family: 'Rancho', cursive;
+        }
+    
+    .portada_libro_lateral img{
+        width:45%;
+        margin-top: 32px;
+        
+        }
+    .centrar_foto{
+        margin:auto;
+        display:block;
+    }
+
+    .portada_libro_lateral p{
+        width:100%;
+        float: none;
+        }
+    
+    .precio_color{
+        color:rgb(60, 127, 202);
+        
+        font-size: 27px;
+        background-color: lightgrey;
+        padding: 5px;
+        font-weight: bold;
+        }
+    
+    main h3{
+        font-size: 27px;
+        background-color:lightblue ;
+        }
+    
+    main h4{
+        font-size: 27px;
+        font-family: 'Rancho', cursive;
+        color:rgb(36, 121, 201);
+        margin-bottom: -1px;
+        }
+    
+    .entrelibro{
+        width:75%;
+        }
+    
+    .negrita{
+        font-weight: bold;
+        }
+    
+    #subir{
+        margin:45%;
+        font-size: 25px;
+        }
+
+    .centrar_previo_vueltacole{
+        text-align: center;
+    }
+        
+
+}

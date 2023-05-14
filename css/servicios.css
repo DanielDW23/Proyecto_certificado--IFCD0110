@@ -1,0 +1,151 @@
+@media only screen and (min-width: 993px) {   
+   main{
+        width:80%;
+        margin:auto;
+        padding-top: 20px;
+        padding-bottom: 60px;
+        }
+
+    h1{
+        text-align: center;
+        font-size: 45px;
+        }
+
+    h2{
+        font-size: 35px;
+        background-color:lightblue;
+        padding-left: 8px;
+        }
+
+    p{
+        text-align: justify;
+        font-size: 27px;
+    
+        }
+
+    .foto_lateral img{
+        width:20%;
+        margin-top: 32px;
+        }
+
+    .foto_lateral p{
+        width:75%;
+        float: right;
+        margin-right: 20px;
+        }
+    }
+@media only screen and (max-width: 600px) {
+    main{
+    width:90%;
+    margin:auto;
+    padding-top: 20px;
+    padding-bottom: 60px;
+    }
+    
+    h1{
+        text-align: center;
+        font-size: 45px;
+        }
+    
+    h2{
+        font-size: 35px;
+        background-color:lightblue;
+        padding-left: 8px;
+        }
+    
+    p{
+        text-align: justify;
+        font-size: 27px;
+       
+        }
+    
+    .foto_lateral img{
+        width:100%;
+        
+        }
+    
+    .foto_lateral p{
+        width:100%;
+        margin-right: 0px;
+        }
+
+    }
+
+
+@media only screen and (min-width: 601px) and (max-width:768px) {
+    main{
+    width:90%;
+    margin:auto;
+    padding-top: 20px;
+    padding-bottom: 60px;
+    }
+    
+    h1{
+        text-align: center;
+        font-size: 45px;
+        }
+    
+    h2{
+        font-size: 35px;
+        background-color:lightblue;
+        padding-left: 8px;
+        }
+    
+    p{
+        text-align: justify;
+        font-size: 27px;
+       
+        }
+    
+    .foto_lateral img{
+        width:100%;
+        
+        }
+    
+    .foto_lateral p{
+        width:100%;
+        margin-right: 0px;
+        }
+
+    }
+
+@media only screen and  (min-width: 769px)  and (max-width:992px) {
+    main{
+    width:90%;
+    margin:auto;
+    padding-top: 20px;
+    padding-bottom: 60px;
+    }
+    
+    h1{
+        text-align: center;
+        font-size: 45px;
+        }
+    
+    h2{
+        font-size: 35px;
+        background-color:lightblue;
+        padding-left: 8px;
+        }
+    
+    p{
+        text-align: justify;
+        font-size: 27px;
+       
+        }
+    
+    .foto_lateral img{
+        width:40%;
+        }
+    .centrar_foto{
+        margin:auto;
+		display:block;
+    }
+    
+    .foto_lateral p{
+        width:100%;
+        margin-right: 0px;
+        }
+
+    }
+

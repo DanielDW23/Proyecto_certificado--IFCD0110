@@ -1,0 +1,148 @@
+@media only screen and (min-width: 993px) { 
+   main{
+        width:80%;
+        margin:auto;
+        padding-top: 20px;
+        padding-bottom: 20px;
+        }
+
+    h1{
+        text-align: center;
+        font-size: 45px;
+        }
+
+    h2{
+        font-size: 35px;
+        background-color:lightblue;
+        padding-left: 8px;
+        }
+
+    p{
+        text-align: justify;
+        font-size: 27px;
+        }
+
+    main img{
+        width:86%;
+        padding-bottom: 15px;
+        }
+
+    .centrar_foto{
+        margin:auto;
+        display:block;
+    }
+
+    main a:link{
+        color:sandybrown
+        }
+    }
+@media only screen and (max-width: 600px) {
+    main{
+        width:90%;
+        margin:auto;
+        padding-top: 20px;
+        }
+    main img{
+        width:100%;
+        margin:0px;
+        }
+    h1{
+        text-align: center;
+        font-size: 45px;
+        }
+
+    h2{
+        font-size: 35px;
+        background-color:lightblue;
+        padding-left: 8px;
+        }
+
+    p{
+        text-align: justify;
+        font-size: 27px;
+        }
+
+    .centrar_foto{
+        margin:auto;
+        display:block;
+    }
+
+    main a:link{
+        color:sandybrown
+        }
+
+}
+
+@media only screen and (min-width: 601px) and (max-width:768px){
+    main{
+        width:90%;
+        margin:auto;
+        padding-top: 20px;
+        }
+    main img{
+        width:100%;
+        margin:0px;
+        }
+    h1{
+        text-align: center;
+        font-size: 45px;
+        }
+
+    h2{
+        font-size: 35px;
+        background-color:lightblue;
+        padding-left: 8px;
+        }
+
+    p{
+        text-align: justify;
+        font-size: 27px;
+        }
+
+    .centrar_foto{
+        margin:auto;
+        display:block;
+    }
+
+    main a:link{
+        color:sandybrown
+        }
+
+}
+
+@media only screen and (min-width: 769px)  and (max-width:992px){
+    main{
+        width:90%;
+        margin:auto;
+        padding-top: 20px;
+        }
+    main img{
+        width:100%;
+        margin:0px;
+        }
+    h1{
+        text-align: center;
+        font-size: 45px;
+        }
+
+    h2{
+        font-size: 35px;
+        background-color:lightblue;
+        padding-left: 8px;
+        }
+
+    p{
+        text-align: justify;
+        font-size: 27px;
+        }
+
+    .centrar_foto{
+        margin:auto;
+        display:block;
+    }
+
+    main a:link{
+        color:sandybrown
+        }
+
+}
