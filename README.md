@@ -28,19 +28,15 @@ Se puede probar la web tanto clonando el repositorio como descargando el archivo
 ## Capturas de pantalla
 
 <p align="center">
-![2023-05-14_212311](https://github.com/DanielDW23/Proyecto_certificado--IFCD0110/assets/126791645/a8ebde99-4497-4ebd-a30c-33158cdae3be)
 
-![2023-05-14_212315](https://github.com/DanielDW23/Proyecto_certificado--IFCD0110/assets/126791645/5c60ade2-2d30-4859-badb-f9321ca7ca50)
-
-![2023-05-14_212318](https://github.com/DanielDW23/Proyecto_certificado--IFCD0110/assets/126791645/f8d1d987-201f-496d-a387-5d081597bf63)
-
-![2023-05-14_212323](https://github.com/DanielDW23/Proyecto_certificado--IFCD0110/assets/126791645/43b6acf8-28b1-481a-9638-b1626838da4e)
-
-![2023-05-14_212337](https://github.com/DanielDW23/Proyecto_certificado--IFCD0110/assets/126791645/4bc92274-d1a9-4727-8d0b-3a26bbe0a13b)
-![2023-05-14_212349](https://github.com/DanielDW23/Proyecto_certificado--IFCD0110/assets/126791645/8ab8564f-ea0a-4bba-a40f-63039ce8cbb6)
-
-![2023-05-14_212404](https://github.com/DanielDW23/Proyecto_certificado--IFCD0110/assets/126791645/33e3465f-686a-4b06-a038-75dceb4adf4a)
-![2023-05-14_212415](https://github.com/DanielDW23/Proyecto_certificado--IFCD0110/assets/126791645/5f884191-c8a7-45ca-9913-f1078ad48bdf)
+![2023-05-14_212311](https://github.com/DanielDW23/Proyecto_certificado--IFCD0110/assets/126791645/d041f235-4c6b-40ea-b1a8-da47ee049812)
+![2023-05-14_212315](https://github.com/DanielDW23/Proyecto_certificado--IFCD0110/assets/126791645/150bf35b-ad78-4452-8dd5-8701512c1950)
+![2023-05-14_212318](https://github.com/DanielDW23/Proyecto_certificado--IFCD0110/assets/126791645/2046eb98-2cf2-41f3-ada2-bb63d30307ed)
+![2023-05-14_212323](https://github.com/DanielDW23/Proyecto_certificado--IFCD0110/assets/126791645/a5baf6cd-db2c-4fb8-b759-e64eed730f9a)
+![2023-05-14_212337](https://github.com/DanielDW23/Proyecto_certificado--IFCD0110/assets/126791645/735beb71-1bd2-4aca-8bce-7482a351c918)
+![2023-05-14_212349](https://github.com/DanielDW23/Proyecto_certificado--IFCD0110/assets/126791645/d41b101a-7454-4830-8938-701eb9e8bbd9)
+![2023-05-14_212404](https://github.com/DanielDW23/Proyecto_certificado--IFCD0110/assets/126791645/900f5471-604a-4918-b5d6-d11737b78d3c)
+![2023-05-14_212415](https://github.com/DanielDW23/Proyecto_certificado--IFCD0110/assets/126791645/0ce4f91b-4463-4642-bc88-46b62e06e5ee)
 
 </p>
 
